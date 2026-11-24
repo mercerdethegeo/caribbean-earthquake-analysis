@@ -10,7 +10,7 @@
 - [Python Analysis Notebook (Live Google Colab)](https://colab.research.google.com/drive/1ETzMB4eO-4Eg_zl1HZruMBEQDOc5GUkT?usp=sharing)
 - [QGIS Maps](maps/)
 - [Python Figures](figures/)
-- 
+  
 ## Project Overview
 
 This project investigates the spatial distribution of earthquakes in and around Trinidad and Tobago and their relationship with regional geological structures.
