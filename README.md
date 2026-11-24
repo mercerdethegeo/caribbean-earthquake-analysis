@@ -81,6 +81,9 @@ Spatial proximity alone does not establish a causal relationship between earthqu
 ## Project Outputs
 
 Maps, figures, Python notebooks and technical documentation will be added as the investigation progresses.
+### Preliminary Earthquake Map
+
+![Earthquake Map](maps/magnitude map.jpeg)
 
 ## Disclaimer
 
