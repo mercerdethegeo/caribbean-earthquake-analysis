@@ -83,7 +83,7 @@ Spatial proximity alone does not establish a causal relationship between earthqu
 Maps, figures, Python notebooks and technical documentation will be added as the investigation progresses.
 ### Preliminary Earthquake Map
 
-![Earthquake Map](maps/magnitude map.jpeg)
+![Earthquake Magnitude Distribution](maps/magnitude%20map.jpeg)
 
 ## Disclaimer
 
